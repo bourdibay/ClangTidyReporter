@@ -28,7 +28,7 @@ This script does in this order:
 Run clang-tidy on the directories ./source/dir1 and ./source/dir2 + the files ./source/file1.c and ./source/file2.cpp with the clang checks "misc-*,modernize-*,bugprone-*".
 Output will be logged in the directory "output".
 
-### Screenshots
+## Screenshots
 
 Index page
 
