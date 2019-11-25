@@ -31,10 +31,13 @@ Output will be logged in the directory "output".
 ### Screenshots
 
 Index page
+
 ![screen1](https://github.com/bourdibay/ClangTidyReporter/blob/master/screenshots/index.png)
 
 Categorisation by files
+
 ![screen2](https://github.com/bourdibay/ClangTidyReporter/blob/master/screenshots/files.png)
 
 Categorisation by type of warning
+
 ![screen3](https://github.com/bourdibay/ClangTidyReporter/blob/master/screenshots/categories.png)
