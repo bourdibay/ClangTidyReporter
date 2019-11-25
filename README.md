@@ -1,10 +1,11 @@
 # ClangTidyReporter
-Run clang-tidy and generate a nice looking report of the result
+Run clang-tidy and generate a nice looking report of the results.
 
 ## Presentation
 
-Python script running clang-tidy on several directories (on Windows only).
+Python script running clang-tidy on several directories (tested on Windows only).
 Results are analyzed, categorized, and displayed in html pages.
+A diff is done wih previous run, only if the previous run has been done yesterday.
 
 This script does in this order:
 
@@ -26,3 +27,9 @@ This script does in this order:
 
 Run clang-tidy on the directories ./source/dir1 and ./source/dir2 + the files ./source/file1.c and ./source/file2.cpp with the clang checks "misc-*,modernize-*,bugprone-*".
 Output will be logged in the directory "output".
+
+### Screenshots
+
+![screen1](https://github.com/bourdibay/ClangTidyReporter/blob/master/screenshots/home.png)
+![screen2](https://github.com/bourdibay/ClangTidyReporter/blob/master/screenshots/files.png)
+![screen3](https://github.com/bourdibay/ClangTidyReporter/blob/master/screenshots/categories.png)
