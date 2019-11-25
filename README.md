@@ -30,6 +30,6 @@ Output will be logged in the directory "output".
 
 ### Screenshots
 
-![screen1](https://github.com/bourdibay/ClangTidyReporter/blob/master/screenshots/home.png)
+![screen1](https://github.com/bourdibay/ClangTidyReporter/blob/master/screenshots/index.png)
 ![screen2](https://github.com/bourdibay/ClangTidyReporter/blob/master/screenshots/files.png)
 ![screen3](https://github.com/bourdibay/ClangTidyReporter/blob/master/screenshots/categories.png)
